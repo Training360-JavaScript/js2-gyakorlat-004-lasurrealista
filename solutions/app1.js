@@ -5,3 +5,5 @@ const getSecondsOfThisYearUntilNow = () => {
 };
 
 export default getSecondsOfThisYearUntilNow;
+
+
